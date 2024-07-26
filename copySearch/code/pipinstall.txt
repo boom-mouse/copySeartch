@@ -1,0 +1,13 @@
+Package                   Version
+------------------------- --------
+altgraph                  0.17.4
+packaging                 24.1
+pefile                    2023.2.7
+pip                       24.1.2
+PyGetWindow               0.0.9
+pyinstaller               6.9.0
+pyinstaller-hooks-contrib 2024.7
+pyperclip                 1.9.0
+PyRect                    0.2.0
+pywin32-ctypes            0.2.2
+setuptools                58.1.0
