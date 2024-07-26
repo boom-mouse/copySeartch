@@ -12,7 +12,7 @@
 
 - 使用库：
 
-  | Package                   | Version  |
+| Package                   | Version  |
 | ------------------------- | -------- |
 | altgraph                  | 0.17.4   |
 | packaging                 | 24.1     |
